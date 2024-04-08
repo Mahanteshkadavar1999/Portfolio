@@ -1,0 +1,136 @@
+[
+  {
+    "name": "Portfolio",
+    "desc": "Portfolio website built using HTML, CSS, JavaScript and JSON",
+    "image": "port",
+    "category": "portfolio",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Portfolio",
+      "code": "https://github.com/Mahanteshkadavar1999/Portfolio/tree/main/Portfolio-Website"
+    }
+  },
+  
+  {
+    "name": "Quiz Application",
+    "desc": "Quiz Application bulit using java, xml ,swing and awt ",
+    "image": "quiz_java",
+    "category": "java",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Java_Project",
+      "code": "https://github.com/Mahanteshkadavar1999/Java_Project/tree/main/Quiz-Application/Quiz-Application"
+    }
+  },
+  {
+    "name": "Weather API",
+    "desc": "It will featch the data from API based on the user entered particular place",
+    "image": "weather",
+    "category": "api",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Web_Projects",
+      "code": "https://github.com/Mahanteshkadavar1999/Web_Projects/tree/main/WeatherAPI"
+    }
+  },
+  {
+    "name": "Netflix cloning",
+    "desc": "Netflix website cloning using HTML, CSS and JavaScript",
+    "image": "netflix",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Web_Projects",
+      "code": "https://github.com/Mahanteshkadavar1999/Web_Projects/tree/main/Netflix_Cloning"
+    }
+  },
+  {
+    "name": "Word Count",
+    "desc": "Words And Character Counter. Live Counter JavaScript Project.",
+    "image": "word",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Web_Projects",
+      "code": "https://github.com/Mahanteshkadavar1999/Web_Projects/tree/main/Wordcount"
+    }
+  },
+ 
+  {
+    "name": "Flipkart Cloning",
+    "desc": "Filpkart website cloning using HTML, CSS and JavaScript",
+    "image": "flipkart",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Web_Projects",
+      "code": "https://github.com/Mahanteshkadavar1999/Web_Projects/tree/main/FlipkartClonning"
+    }
+  },
+ 
+  {
+    "name": "StopWatch",
+    "desc": "Stop_Watch is bulit using HTML, CSS and javaScript ",
+    "image": "stopwatch",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Web_Projects",
+      "code": "https://github.com/Mahanteshkadavar1999/Web_Projects/tree/main/Stop_Watch"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Portfolio website built using HTML, CSS ,Bootstrap and JavaScript",
+    "image": "portfolio",
+    "category": "portfolio",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Web_Projects",
+      "code": "https://github.com/Mahanteshkadavar1999/Web_Projects/tree/main/Portfolio"
+    }
+  },
+
+  {
+    "name": "Simple Calculator",
+    "desc": "A Simple Caculator Built Using JQuery.",
+    "image": "calculator",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Web_Projects",
+      "code": "https://github.com/Mahanteshkadavar1999/Web_Projects/tree/main/Calculator"
+    }
+  },
+  {
+    "name": "Temprature_Converter",
+    "desc": "Temperature Converter Celsius To Kelvin And Fahrenhiet Live.",
+    "image": "temp",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Web_Projects",
+      "code": "https://github.com/Mahanteshkadavar1999/Web_Projects/tree/main/Temprature_Converter"
+    }
+  },
+  {
+    "name": "Age Calculator",
+    "desc": "Calculates The Age Of The User. Wishes Too On Birthday.",
+    "image": "age",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Web_Projects",
+      "code": "https://github.com/Mahanteshkadavar1999/Web_Projects/tree/main/Age_Calculator"
+    }
+  },
+  {
+    "name": "Neo Clock",
+    "desc": "Basic Neomorphism Clock With Hour, Min, Sec With Light And Dark Mode. Tilt Effect.",
+    "image": "neoclock",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Web_Projects",
+      "code": "https://github.com/Mahanteshkadavar1999/Web_Projects/tree/main/NeoClock"
+    }
+  },
+  {
+    "name": "Password_Generator",
+    "desc": "A Basic Password Generator As Per The User Selected Criteria.",
+    "image": "pwd",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Mahanteshkadavar1999/Web_Projects",
+      "code": "https://github.com/Mahanteshkadavar1999/Web_Projects/tree/main/Password_Generator"
+    }
+  }
+]
